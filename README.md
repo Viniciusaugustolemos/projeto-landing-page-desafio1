@@ -4,5 +4,6 @@ Este é o projeto de desenvolvimento do curso de Tecnologia da Escola DNC.
 #Criamos uma Landing-page corfome foi solicitado
 usamos HTML e CSS para performece da pagina.
 
-# Link da planilha do Formulario
+# Link da planilha Formulario e Hospedagem do Site
 https://docs.google.com/spreadsheets/d/1VCUJw1LOeQcLUWnMjcJi8XYcaEohH8AcSCAP3HFhmcw/edit#gid=0
+https://projeto-landing-page-desafio1.netlify.app/
