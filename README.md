@@ -7,5 +7,5 @@ usamos HTML e CSS para performece da pagina.
 # Link da planilha Formulario 
 https://docs.google.com/spreadsheets/d/1VCUJw1LOeQcLUWnMjcJi8XYcaEohH8AcSCAP3HFhmcw/edit#gid=0
 
-# Hospedagem do Site
+# Hospedagem da pagina
 https://projeto-landing-page-desafio1.netlify.app/
